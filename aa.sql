@@ -1,1 +1,1 @@
-select * from dbo.MSreplication_options
+select * from dbo.Master
